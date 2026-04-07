@@ -1,7 +1,11 @@
 aid: danaher
-url: https://raw.githubusercontent.com/api-evangelist/danaher/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/danaher/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.danaher.com
+description: >-
+  As a leading global life sciences and diagnostics innovator, we are committed to
+  accelerating the power of science and technology to improve human health.
