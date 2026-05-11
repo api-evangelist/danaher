@@ -49,6 +49,13 @@ common:
     url: https://www.cytivalifesciences.com/
   - type: Radiometer
     url: https://www.radiometer.com/
+  - type: Integrations
+    url: https://www.danaher.com/how-we-work/partners
+integrations:
+  - name: Woman making point in meeting
+  - name: complex molecule
+  - name: Danaher
+  - name: Innovation at the speed of life
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
