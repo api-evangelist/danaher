@@ -15,7 +15,7 @@ tags:
 created: '2026-03-21'
 modified: '2026-04-28'
 specificationVersion: '0.19'
-xType: company
+kind: company
 description: >-
   Danaher Corporation is a global life sciences and diagnostics conglomerate
   whose operating companies include Beckman Coulter, Leica Microsystems,
