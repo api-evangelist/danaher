@@ -25,6 +25,8 @@ description: >-
   companies under the Danaher portfolio.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/danaher
   - type: Website
     url: https://www.danaher.com
   - type: Our Businesses
