@@ -26,6 +26,8 @@ description: >-
   companies under the Danaher portfolio.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/danaher-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/danaher
   - type: Website
